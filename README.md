@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # markovChains
 
 CLI tools for Markov chains (n-step transitions, stationary distributions) and a random-walk plotter.
